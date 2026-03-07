@@ -1,4 +1,15 @@
-+# CODTECH_Project_API-INTEGRATION-AND-DATA-VISUALIZATION
+# CODTECH_Project_API-INTEGRATION-AND-DATA-VISUALIZATION
+
+*COMPANY*: COOTECH IT SOLUTIONS
+
+*NANE*: SHRADDHA PAWAR
+
+*INTERN ID*: CTIS4482
+
+*DOMAIN*: PYTHON PROGRAMMING
+
+*DURATION*: 6 WEEEKS
+
 
  📌Project Overview
 
@@ -69,3 +80,8 @@ This project demonstrates:
 * Building a simple data visualization dashboard
 
 * Practical implementation of real-time data analysis using Python
+
+  OUTPUT:
+
+  <img width="1364" height="699" alt="task1 shraddha" src="https://github.com/user-attachments/assets/7fe03b09-76ac-4f39-90fd-4c79cb7d64fe" />
+
